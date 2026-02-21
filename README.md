@@ -14,13 +14,11 @@
 
 ---
 
-
-
 ## 〔 OPERATIVE PROFILE 〕
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 ```yaml
 ╔══════════════════════════════════════╗
@@ -50,9 +48,9 @@ TasynIslam().greet()
 ```
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="45%" valign="middle" align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ta-syn&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00fff9&icon_color=ff2d78&text_color=ffffff&count_private=true)](https://github.com/ta-syn)
+<img src="https://raw.githubusercontent.com/ta-syn/ta-syn/main/github-stats.svg" width="100%" />
 
 </td>
 </tr>
@@ -119,9 +117,7 @@ TasynIslam().greet()
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ta-syn&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00fff9&icon_color=ff2d78&text_color=ffffff&count_private=true" width="47%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ta-syn&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00fff9&text_color=ffffff&langs_count=8" width="42%" />
+<img src="https://raw.githubusercontent.com/ta-syn/ta-syn/main/top-langs.svg" width="45%" />
 
 </div>
 
@@ -149,7 +145,7 @@ TasynIslam().greet()
 
 ### [`💘 yukilyraa-special-lovestory`](https://github.com/ta-syn/yukilyraa-special-lovestory)
 
-> A private digital sanctuary — interactive love story site with **Admin Mode**, editable timeline, memory gallery, background music player & **Framer Motion** cinematic animations. Built with **Next.js + React + Tailwind CSS**.
+> Interactive love story site with **Admin Mode**, editable timeline, memory gallery, background music & **Framer Motion** animations. Built with **Next.js + React + Tailwind CSS**.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)&nbsp;
@@ -164,7 +160,7 @@ TasynIslam().greet()
 
 ### [`⚡ next.js-project-setup`](https://github.com/ta-syn/next.js-project-setup)
 
-> A **PWA-ready** web app built with vanilla HTML + CSS + JS. Features a **service worker**, web manifest for installability, and a clean modern UI — fully deployed on Vercel.
+> **PWA-ready** web app with **service worker**, web manifest for installability & clean modern UI — built with vanilla HTML + CSS + JS and deployed on Vercel.
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)&nbsp;
@@ -181,7 +177,7 @@ TasynIslam().greet()
 
 ### [`🌹 velentine-website-for-lyraa`](https://github.com/ta-syn/velentine-website-for-lyraa)
 
-> A Valentine's website built as a **Google AI Studio** app. Powered by **Gemini API** for AI-generated love messages. Built with React + TypeScript + Vite + Tailwind CSS.
+> Valentine's website powered by **Gemini API** for AI-generated love messages. Built as a Google AI Studio app with **React + TypeScript + Vite + Tailwind CSS**.
 
 ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)&nbsp;
@@ -196,7 +192,7 @@ TasynIslam().greet()
 
 ### [`🌙 soft_light_for_lyraa`](https://github.com/ta-syn/soft_light_for_lyraa)
 
-> A soft aesthetic **Google AI Studio** app with gentle UI, smooth animations and calming visuals. Built with React + TypeScript + Vite + Tailwind CSS. Deployed live on Vercel.
+> Soft aesthetic **Google AI Studio** app with gentle UI, smooth animations and calming visuals. Built with **React + TypeScript + Vite + Tailwind CSS**.
 
 ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)&nbsp;
@@ -213,7 +209,7 @@ TasynIslam().greet()
 
 ### [`🚀 l-nishan-portfolio-website`](https://github.com/ta-syn/l-nishan-portfolio-website)
 
-> Premium portfolio with **3D particle system**, holographic glassmorphism, custom magnetic cursor & **Framer Motion** cinematic transitions. Built with **Next.js 16 + TypeScript**. Lighthouse 95+. ⚡
+> Premium portfolio with **3D particle system**, holographic glassmorphism, custom magnetic cursor & **Framer Motion** transitions. Built with **Next.js 16 + TypeScript**. Lighthouse 95+. ⚡
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;
 ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)&nbsp;
@@ -228,7 +224,7 @@ TasynIslam().greet()
 
 ### [`💌 special-website-for-lyraa`](https://github.com/ta-syn/special-website-for-lyraa)
 
-> Romantic site with Maroon & Cream theme, auto-switching **music player**, photo gallery with modals, **AI love letter via Gemini**, confetti animations & promises. Built with **React 19 + TypeScript + Vite**. 🎊
+> Romantic site with Maroon & Cream theme, auto-switching **music player**, photo gallery, **AI love letter via Gemini**, confetti animations & promises. Built with **React 19 + TypeScript + Vite**. 🎊
 
 ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)&nbsp;
@@ -255,7 +251,7 @@ TasynIslam().greet()
 
 <br>
 
-![quote](https://raw.githubusercontent.com/ta-syn/ta-syn/main/quote.svg)
+<img src="https://raw.githubusercontent.com/ta-syn/ta-syn/main/quote.svg" width="80%" />
 
 <br>
 

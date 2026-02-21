@@ -14,9 +14,13 @@
 
 ---
 
-<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=ta-syn&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00fff9&icon_color=ff2d78&text_color=ffffff&count_private=true&include_all_commits=true&cache_seconds=1800" />
+
 
 ## 〔 OPERATIVE PROFILE 〕
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ```yaml
 ╔══════════════════════════════════════╗
@@ -45,7 +49,14 @@ TasynIslam().greet()
 # >>> Welcome to my GitHub. Stay a while.
 ```
 
-<br clear="right"/>
+</td>
+<td width="50%" valign="top" align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ta-syn&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00fff9&icon_color=ff2d78&text_color=ffffff&count_private=true)](https://github.com/ta-syn)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -108,13 +119,9 @@ TasynIslam().greet()
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ta-syn&layout=donut&theme=radical&hide_border=true&bg_color=000000&title_color=00fff9&text_color=ffffff&langs_count=6&cache_seconds=1800" width="34%" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ta-syn&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=ff2d78&text_color=ffffff&langs_count=8&cache_seconds=1800" width="34%" />
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ta-syn&theme=radical&cache_seconds=1800" width="72%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ta-syn&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00fff9&icon_color=ff2d78&text_color=ffffff&count_private=true" width="47%" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ta-syn&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00fff9&text_color=ffffff&langs_count=8" width="42%" />
 
 </div>
 

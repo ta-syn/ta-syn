@@ -1,157 +1,167 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    HEADER BANNER                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ██████████████████████████████████████████████████████████████████ -->
+<!--              ULTIMATE ANIMATED CYBERPUNK PROFILE                  -->
+<!--                      Ta-syn Islam — @ta-syn                       -->
+<!-- ██████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0d001a,75:00fff9,100:ff2d78&height=320&section=header&text=TA-SYN%20NISHAN&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=◈%20Full%20Stack%20Developer%20◈%20Code%20Architect%20◈%20Digital%20Rebel%20◈&descAlignY=62&descSize=15&descColor=00fff9&animation=fadeIn&stroke=ff2d78&strokeWidth=2)](https://github.com/ta-syn)
+<!-- ═══ ANIMATED VENOM HEADER ═══ -->
+[![Header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:0a0015,60:00fff9,100:ff2d78&height=320&section=header&text=TA-SYN%20ISLAM&fontSize=82&fontColor=ffffff&fontAlignY=40&desc=◈%20Full%20Stack%20Developer%20◈%20Code%20Architect%20◈%20Digital%20Rebel%20◈&descAlignY=60&descSize=16&descColor=00fff9&animation=fadeIn&stroke=ff2d78&strokeWidth=2)](https://github.com/ta-syn)
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&duration=3000&pause=1000&color=00FFF9&center=true&vCenter=true&width=700&lines=%5B+SYSTEM+ONLINE+%5D+Welcome+to+my+digital+space...;%3E+Building+sleek+web+experiences+from+Dhaka%2C+BD+%F0%9F%8C%86;%3E+Turning+ideas+into+reality+with+code;%3E+HTML+%7C+CSS+%7C+JavaScript+%7C+Java;%3E+Always+learning.+Always+building.+Never+stopping.)](https://github.com/ta-syn)
+<!-- ═══ ANIMATED TYPING SVG ═══ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=21&duration=2500&pause=800&color=00FFF9&center=true&vCenter=true&width=780&lines=%5B+SYSTEM+ONLINE+%5D+Initializing+Ta-syn+Islam...;%3E+Full+Stack+Developer+%2F%2F+Dhaka%2C+Bangladesh+%F0%9F%8C%86;%3E+Next.js+%7C+React+%7C+TypeScript+%7C+Tailwind+CSS;%3E+Building+premium+web+experiences+with+code+%E2%9A%A1;%3E+Framer+Motion+%7C+Vite+%7C+Gemini+API+%7C+Vercel;%3E+Always+learning.+Always+shipping.+Never+stopping.;%5B+CONNECTION+ESTABLISHED+%5D+Let%27s+build+something+legendary.)](https://github.com/ta-syn)
 
 <br>
 
-<!-- BADGES ROW -->
-[![Profile Views](https://komarev.com/ghpvc/?username=ta-syn&style=for-the-badge&color=ff2d78&label=PROFILE+VIEWS&abbreviated=true)](https://github.com/ta-syn)&nbsp;
-[![Followers](https://img.shields.io/github/followers/ta-syn?style=for-the-badge&color=00fff9&labelColor=0d001a&label=FOLLOWERS&logo=github)](https://github.com/ta-syn?tab=followers)&nbsp;
-[![Repos](https://img.shields.io/badge/REPOSITORIES-19-blueviolet?style=for-the-badge&labelColor=0d001a)](https://github.com/ta-syn?tab=repositories)
+<!-- ═══ ANIMATED WAVE BADGES ═══ -->
+[![Profile Views](https://komarev.com/ghpvc/?username=ta-syn&style=for-the-badge&color=ff2d78&label=PROFILE+VIEWS)](https://github.com/ta-syn)&nbsp;
+[![Followers](https://img.shields.io/github/followers/ta-syn?style=for-the-badge&color=00fff9&labelColor=0a0015&label=FOLLOWERS&logo=github)](https://github.com/ta-syn?tab=followers)&nbsp;
+[![Repos](https://img.shields.io/badge/REPOSITORIES-19-blueviolet?style=for-the-badge&labelColor=0a0015&logo=github)](https://github.com/ta-syn?tab=repositories)
 
 </div>
 
-<br>
+---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   ABOUT ME SECTION                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        ABOUT ME                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=ta-syn&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=00fff9&icon_color=ff2d78&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=ta-syn&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=00fff9&icon_color=ff2d78&text_color=ffffff&count_private=true&include_all_commits=true" />
 
-## 〔 WHO AM I? 〕
+## 〔 OPERATIVE PROFILE 〕
 
 ```yaml
-╔══════════════════════════════╗
-  operator  : Ta-syn Islam Nishan
+╔══════════════════════════════════════╗
+  operator  : Ta-syn Islam
   alias     : @ta-syn
   location  : Dhaka, Bangladesh 🌆
   status    : ONLINE ██████████ 100%
   role      : Full Stack Developer
+  stack     : Next.js · React · TypeScript
   platform  : macOS + VS Code ⚡
   passion   : Build. Break. Repeat.
-╚══════════════════════════════╝
+╚══════════════════════════════════════╝
 ```
 
 ```python
-class Nishan:
-    def __init__(self):
-        self.skills    = ["HTML","CSS","JS","Java"]
-        self.learning  = ["React","Node.js","DSA"]
-        self.building  = ["portfolios","web apps","e-commerce"]
-        self.goal      = "Ship great products daily"
-    
+class TasynIslam:
+    stack    = ["Next.js","React","TypeScript","Tailwind"]
+    tools    = ["Vite","Framer Motion","Gemini API"]
+    learning = ["Node.js", "DSA", "System Design"]
+    goal     = "Ship great products. Every. Single. Day."
+
     def greet(self):
         print(">>> Welcome to my GitHub. Stay a while.")
 
-me = Nishan()
-me.greet()
+TasynIslam().greet()
+# Output: >>> Welcome to my GitHub. Stay a while.
 ```
 
 <br clear="right"/>
 
-<br>
+---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   TECH STACK SECTION                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED TECH STACK                            -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 〔 TECH STACK 〕
+## 〔 TECH ARSENAL 〕
 
+<!-- ANIMATED SKILL ICONS -->
 <table>
 <tr>
 <td align="center" width="50%">
 
 **⚡ Languages**
 
-[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,java&theme=dark&perline=5)](https://skillicons.dev)
 
 </td>
 <td align="center" width="50%">
 
-**🛠️ Tools & Platforms**
+**🚀 Frameworks**
 
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark&perline=4)](https://skillicons.dev)
 
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td align="center">
 
-**📚 Currently Learning**
+**🛠️ Tools & Platforms**
 
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
-[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark&perline=4)](https://skillicons.dev)
 
 </td>
-<td align="center" width="50%">
+<td align="center">
 
 **🎨 Design & More**
 
-[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com/)
-[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![Skills](https://skillicons.dev/icons?i=figma,nodejs,mysql&theme=dark&perline=4)](https://skillicons.dev)
 
 </td>
 </tr>
 </table>
 
-</div>
-
+<!-- ANIMATED PROGRESS BARS VIA SHIELDS -->
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATS                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+![Next.js](https://img.shields.io/badge/Next.js-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%2090%25-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%2085%25-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%2080%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%2090%25-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%2095%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED GITHUB STATS                          -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 〔 SYSTEM DIAGNOSTICS 〕
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ta-syn&theme=radical&hide_border=true&background=000000&ring=00fff9&fire=ff2d78&currStreakLabel=00fff9&sideLabels=ff2d78&dates=aaaaaa&stroke=00fff9&currStreakNum=ffffff&sideNums=ffffff" width="70%" alt="Streak Stats"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ta-syn&layout=donut&theme=radical&hide_border=true&bg_color=000000&title_color=00fff9&text_color=ffffff&langs_count=6" width="36%" />
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ta-syn&theme=radical&utcOffset=6" width="36%" />
-
-</div>
+<!-- ANIMATED STREAK -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ta-syn&theme=radical&hide_border=true&background=000000&ring=00fff9&fire=ff2d78&currStreakLabel=00fff9&sideLabels=ff2d78&dates=888888&currStreakNum=ffffff&sideNums=ffffff&stroke=00fff930)](https://github.com/ta-syn)
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               ACTIVITY GRAPH                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- STATS SIDE BY SIDE -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ta-syn&layout=donut&theme=radical&hide_border=true&bg_color=000000&title_color=00fff9&text_color=ffffff&langs_count=6" width="34%" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ta-syn&theme=radical" width="34%" />
+
+<br>
+
+<!-- PROFILE DETAILS CARD -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ta-syn&theme=radical" width="72%" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                  ANIMATED ACTIVITY GRAPH                          -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 〔 CONTRIBUTION MATRIX 〕
+## 〔 NEURAL ACTIVITY MATRIX 〕
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ta-syn&bg_color=000000&color=00fff9&line=ff2d78&point=ffffff&area=true&area_color=00fff915&hide_border=true&custom_title=◈%20Neural%20Activity%20Graph%20◈&title_color=00fff9)](https://github.com/ta-syn)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ta-syn&bg_color=000000&color=00fff9&line=ff2d78&point=ffffff&area=true&area_color=00fff918&hide_border=true&custom_title=◈%20Contribution%20Neural%20Graph%20◈&title_color=00fff9&radius=6)](https://github.com/ta-syn)
 
 </div>
 
-<br>
+---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  FEATURED PROJECTS                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                  PINNED PROJECTS — FULL DETAILS                  -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -159,21 +169,124 @@ me.greet()
 
 </div>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [`💘 yukilyraa-special-lovestory`](https://github.com/ta-syn/yukilyraa-special-lovestory)
+
+> A private digital sanctuary — interactive love story site with **Admin Mode**, editable timeline, memory gallery, background music player & **Framer Motion** cinematic animations.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)&nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)&nbsp;
+![Framer](https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=white)
+
+[![Live](https://img.shields.io/badge/▶%20LIVE%20DEMO-00fff9?style=for-the-badge&logo=vercel&logoColor=black)](https://yukilyraa-special-lovestory.vercel.app)&nbsp;
+[![Repo](https://img.shields.io/badge/⚡%20VIEW%20REPO-ff2d78?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ta-syn/yukilyraa-special-lovestory)
+
+</td>
+<td width="50%" valign="top">
+
+### [`⚡ next.js-project-setup`](https://github.com/ta-syn/next.js-project-setup)
+
+> A **PWA-ready** web app built with vanilla HTML + CSS + JS. Features a **service worker**, web manifest for installability, and a clean modern UI — fully deployed on Vercel.
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)&nbsp;
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)&nbsp;
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+
+[![Live](https://img.shields.io/badge/▶%20LIVE%20DEMO-00fff9?style=for-the-badge&logo=vercel&logoColor=black)](https://next-js-project-setup-three.vercel.app)&nbsp;
+[![Repo](https://img.shields.io/badge/⚡%20VIEW%20REPO-ff2d78?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ta-syn/next.js-project-setup)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [`🌹 velentine-website-for-lyraa`](https://github.com/ta-syn/velentine-website-for-lyraa)
+
+> A Valentine's website built as a **Google AI Studio** app. Powered by **Gemini API** for AI-generated love messages. Built with React + TypeScript + Vite + Tailwind CSS.
+
+![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)&nbsp;
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)&nbsp;
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+
+[![Live](https://img.shields.io/badge/▶%20LIVE%20DEMO-00fff9?style=for-the-badge&logo=vercel&logoColor=black)](https://velentine-website-for-lyraa.vercel.app)&nbsp;
+[![Repo](https://img.shields.io/badge/⚡%20VIEW%20REPO-ff2d78?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ta-syn/velentine-website-for-lyraa)
+
+</td>
+<td width="50%" valign="top">
+
+### [`🌙 soft_light_for_lyraa`](https://github.com/ta-syn/soft_light_for_lyraa)
+
+> A soft aesthetic **Google AI Studio** app with gentle UI, smooth animations and calming visuals. Built with React + TypeScript + Vite + Tailwind CSS. Deployed live on Vercel.
+
+![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)&nbsp;
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)&nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+[![Live](https://img.shields.io/badge/▶%20LIVE%20DEMO-00fff9?style=for-the-badge&logo=vercel&logoColor=black)](https://soft-light-for-lyraa.vercel.app)&nbsp;
+[![Repo](https://img.shields.io/badge/⚡%20VIEW%20REPO-ff2d78?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ta-syn/soft_light_for_lyraa)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [`🚀 l-nishan-portfolio-website`](https://github.com/ta-syn/l-nishan-portfolio-website)
+
+> Premium portfolio with **3D particle system**, holographic glassmorphism, custom magnetic cursor & **Framer Motion** cinematic transitions. Built with **Next.js 16 + TypeScript**. Lighthouse 95+. ⚡
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)&nbsp;
+![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)&nbsp;
+![Framer](https://img.shields.io/badge/Framer_Motion-black?style=flat-square&logo=framer&logoColor=white)&nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+[![Live](https://img.shields.io/badge/▶%20LIVE%20DEMO-00fff9?style=for-the-badge&logo=vercel&logoColor=black)](https://l-nishan-portfolio-website.vercel.app)&nbsp;
+[![Repo](https://img.shields.io/badge/⚡%20VIEW%20REPO-ff2d78?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ta-syn/l-nishan-portfolio-website)
+
+</td>
+<td width="50%" valign="top">
+
+### [`💌 special-website-for-lyraa`](https://github.com/ta-syn/special-website-for-lyraa)
+
+> Romantic site with Maroon & Cream theme, auto-switching **music player**, photo gallery with modals, **AI love letter via Gemini**, confetti animations & promises. Built with **React 19 + TypeScript + Vite**. 🎊
+
+![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)&nbsp;
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)&nbsp;
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+
+[![Live](https://img.shields.io/badge/▶%20LIVE%20DEMO-00fff9?style=for-the-badge&logo=vercel&logoColor=black)](https://special-website-for-lyraa.vercel.app)&nbsp;
+[![Repo](https://img.shields.io/badge/⚡%20VIEW%20REPO-ff2d78?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ta-syn/special-website-for-lyraa)
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                   ANIMATED TROPHIES                               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-[![Online Shopping System](https://github-readme-stats.vercel.app/api/pin/?username=ta-syn&repo=Online-Shopping-System&theme=radical&hide_border=true&bg_color=000000&title_color=00fff9&icon_color=ff2d78&text_color=cccccc&description_lines_count=2)](https://github.com/ta-syn/Online-Shopping-System)&nbsp;
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ta-syn&repo=Portfolio&theme=radical&hide_border=true&bg_color=000000&title_color=00fff9&icon_color=ff2d78&text_color=cccccc)](https://github.com/ta-syn/Portfolio)
+## 〔 ACHIEVEMENTS UNLOCKED 〕
 
-[![E-Commerce Project](https://github-readme-stats.vercel.app/api/pin/?username=ta-syn&repo=my-ecommerce-project&theme=radical&hide_border=true&bg_color=000000&title_color=00fff9&icon_color=ff2d78&text_color=cccccc)](https://github.com/ta-syn/my-ecommerce-project)&nbsp;
-[![Nishan's Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ta-syn&repo=nishans-portfolio&theme=radical&hide_border=true&bg_color=000000&title_color=00fff9&icon_color=ff2d78&text_color=cccccc)](https://github.com/ta-syn/nishans-portfolio)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ta-syn&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ta-syn)
 
 </div>
 
-<br>
+---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                CONTRIBUTION SNAKE                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--               ANIMATED CONTRIBUTION SNAKE                         -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -185,45 +298,65 @@ me.greet()
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ta-syn/ta-syn/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-</div>
-
+<details>
+<summary>⚡ Enable Snake Animation — Click to expand</summary>
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               TROPHIES SECTION                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+Create `.github/workflows/snake.yml` in your `ta-syn/ta-syn` repo:
 
-<div align="center">
+```yaml
+name: Generate Snake
 
-## 〔 ACHIEVEMENTS 〕
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ta-syn&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ta-syn)
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 </div>
 
-<br>
+---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  CONNECT SECTION                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                    CONNECT — ANIMATED BUTTONS                     -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 〔 CONNECT WITH ME 〕
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-Visit%20Now-00fff9?style=for-the-badge&labelColor=0d001a)](https://ta-syn.github.io/Portfolio)
-[![GitHub](https://img.shields.io/badge/⚡_GITHUB-@ta--syn-ff2d78?style=for-the-badge&logo=github&labelColor=0d001a)](https://github.com/ta-syn)
-[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0d001a)](https://linkedin.com/in/ta-syn)
-[![Email](https://img.shields.io/badge/📧_EMAIL-Reach%20Out-ff2d78?style=for-the-badge&logo=gmail&labelColor=0d001a)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-Visit%20Now-00fff9?style=for-the-badge&labelColor=0a0015)](https://ta-syn.github.io/Portfolio)&nbsp;
+[![GitHub](https://img.shields.io/badge/⚡_GITHUB-@ta--syn-ff2d78?style=for-the-badge&logo=github&labelColor=0a0015)](https://github.com/ta-syn)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&labelColor=0a0015)](https://www.linkedin.com/in/ta-syn-islam-26333035b/)&nbsp;
+[![Email](https://img.shields.io/badge/📧_EMAIL-Reach%20Out-ff2d78?style=for-the-badge&logo=gmail&labelColor=0a0015)](mailto:tashin121nishan@gmail.com)
 
 <br>
 
----
+<!-- ANIMATED RANDOM QUOTE -->
+[![readme-quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%" alt="Random Dev Quote"/>
+<br>
 
-<br><br>
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff2d78,40:aa00ff,80:00fff9,100:000000&height=150&section=footer&text=>>>%20SIGNAL%20LOST%20...%20but%20the%20code%20lives%20on&fontSize=16&fontColor=ffffff&fontAlignY=72&animation=fadeIn)](https://github.com/ta-syn)
+<!-- ANIMATED FOOTER WAVE -->
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff2d78,30:aa00ff,70:00fff9,100:000000&height=180&section=footer&text=>>>%20SIGNAL%20LOST%20...%20but%20the%20code%20lives%20on&fontSize=17&fontColor=ffffff&fontAlignY=68&animation=fadeIn&desc=@ta-syn%20%7C%20Full%20Stack%20Developer%20%7C%20Dhaka%2C%20BD&descAlignY=85&descColor=00fff9&descSize=13)](https://github.com/ta-syn)
 
 </div>
